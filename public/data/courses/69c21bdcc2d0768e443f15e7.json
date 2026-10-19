@@ -1,0 +1,2939 @@
+{
+  "status": "success",
+  "code": 200,
+  "action": "load_course_folder_content",
+  "course_id": "69c21bdcc2d0768e443f15e7",
+  "course": {
+    "id": "69c21bdcc2d0768e443f15e7",
+    "name": "उड़ान बैच - 2027 9th Class Up Board",
+    "title": "उड़ान बैच - 2027 9th Class Up Board",
+    "group": "9th",
+    "enrollments": 3739,
+    "total_folders": 50,
+    "total_videos": 0,
+    "total_pdfs": 90,
+    "total_tests": 1,
+    "thumbnail": "https://image-store.blr1.cdn.digitaloceanspaces.com/courses/images/1774328796563_WhatsApp Image 2026-03-24 at 10.18.43.jpeg"
+  },
+  "tree": [
+    {
+      "id": "69d8ad265708bce2fb56ead3",
+      "name": "Class 9th - All Subject ( आगे बढ़िए और पढ़ना शुरू करिए )",
+      "children": [
+        {
+          "id": "69df368501b334310ca657ba",
+          "name": "SCIENCE - विज्ञान",
+          "children": [
+            {
+              "id": "69e37257612a97917941da34",
+              "name": "Basic Class & Formula Class",
+              "children": [],
+              "videos": [],
+              "pdfs": [
+                {
+                  "title": "Panel Pdf // Basic Class",
+                  "url": "https://image-store.blr1.cdn.digitaloceanspaces.com/pdfs/a243c996-b434-4d9d-80ae-c2ce5e02498c.pdf",
+                  "fileName": "20260417212651863_11zon.pdf"
+                },
+                {
+                  "title": "Panel Pdf // Physics Complete Formula",
+                  "url": "https://image-store.blr1.cdn.digitaloceanspaces.com/pdfs/5672f5b5-8e92-43c3-818c-9e5a82179632.pdf",
+                  "fileName": "20260814171739006_11zon.pdf"
+                }
+              ],
+              "tests": [],
+              "total_items": 2
+            },
+            {
+              "id": "69f1ba04fb26ccc9e5dcf458",
+              "name": "Chapter - 1 ( हमारे आस - पास के पदार्थ )",
+              "children": [],
+              "videos": [],
+              "pdfs": [
+                {
+                  "title": "Science Chapter - 1 ( NOTES )",
+                  "url": "https://image-store.blr1.cdn.digitaloceanspaces.com/pdfs/02035731-10db-4027-a178-b4b3136bc98b.pdf",
+                  "fileName": "CHAPTER 01 à¤¹à¤®à¤¾à¤°à¥ à¤à¤¸-à¤ªà¤¾à¤¸ à¤à¥ à¤ªà¤¦à¤¾à¤°à¥à¤¥.pdf"
+                },
+                {
+                  "title": "Panel Pdf // One Shot",
+                  "url": "https://image-store.blr1.cdn.digitaloceanspaces.com/pdfs/a738952c-16c1-4f8e-927d-931a87e2b35e.pdf",
+                  "fileName": "20260703213426627_11zon.pdf"
+                },
+                {
+                  "title": "Panel Pdf // Class - 1",
+                  "url": "https://image-store.blr1.cdn.digitaloceanspaces.com/pdfs/b99fdaad-f422-4738-bdd7-763ef32a68da.pdf",
+                  "fileName": "20260428192237752 (1)_11zon.pdf"
+                },
+                {
+                  "title": "Panel Pdf // Class - 2",
+                  "url": "https://image-store.blr1.cdn.digitaloceanspaces.com/pdfs/2b37eea1-9335-461c-83ac-8dd3a02f4791.pdf",
+                  "fileName": "20260430212004215_11zon.pdf"
+                },
+                {
+                  "title": "Panel Pdf // Class - 3",
+                  "url": "https://image-store.blr1.cdn.digitaloceanspaces.com/pdfs/0ed1e290-7d28-4539-8cad-2257041db311.pdf",
+                  "fileName": "20260501205238948_11zon.pdf"
+                },
+                {
+                  "title": "Panel Pdf // Class - 4",
+                  "url": "https://image-store.blr1.cdn.digitaloceanspaces.com/pdfs/fcf55e11-f617-4567-9799-d25b7cfed3d3.pdf",
+                  "fileName": "20260504184220095_11zon.pdf"
+                }
+              ],
+              "tests": [],
+              "total_items": 6
+            },
+            {
+              "id": "6a84aec104ee2253fb76f834",
+              "name": "Chapter - 2 ( क्या हमारे आसपास के पदार्थ शुद्ध हैं )",
+              "children": [],
+              "videos": [],
+              "pdfs": [
+                {
+                  "title": "Science Chapter - 2 ( NOTES )",
+                  "url": "https://image-store.blr1.cdn.digitaloceanspaces.com/pdfs/666bd410-edfa-4c61-b7c1-8f292de71e7b.pdf",
+                  "fileName": "CHAPTER 02 à¤à¥_à¤¯à¤¾ à¤¹à¤®à¤¾à¤°à¥ à¤à¤¸ à¤ªà¤¾à¤¸ à¤à¥ à¤ªà¤¦à¤¾à¤°à¥à¤¥ à¤¶à¥à¤¦à¥à¤§ à¤¹à¥.pdf"
+                },
+                {
+                  "title": "Panel Pdf // Class - 1",
+                  "url": "https://image-store.blr1.cdn.digitaloceanspaces.com/pdfs/66fe0a38-0f34-418f-8804-079e4e899cf5.pdf",
+                  "fileName": "20260808165959725_11zon (1).pdf"
+                },
+                {
+                  "title": "Panel Pdf // One Shot",
+                  "url": "https://image-store.blr1.cdn.digitaloceanspaces.com/pdfs/25e8b1f5-5cba-4b27-b820-a51480a0fde0.pdf",
+                  "fileName": "20260821180142986_11zon.pdf"
+                },
+                {
+                  "title": "Panel Pdf // Question & Subjective Questions",
+                  "url": "https://image-store.blr1.cdn.digitaloceanspaces.com/pdfs/65faaa4c-798c-4a9a-b2c3-50517ed243a1.pdf",
+                  "fileName": "20260822165221981_11zon.pdf"
+                }
+              ],
+              "tests": [],
+              "total_items": 4
+            },
+            {
+              "id": "6aa3d93ad083a91d76bf56c0",
+              "name": "Chapter - 3 ( परमाणु एवं अणु )",
+              "children": [],
+              "videos": [],
+              "pdfs": [
+                {
+                  "title": "Panel Pdf // One Shot",
+                  "url": "https://image-store.blr1.cdn.digitaloceanspaces.com/pdfs/f4fec962-278b-4383-95ec-2844ec309e63.pdf",
+                  "fileName": "20260905181312899_11zon.pdf"
+                }
+              ],
+              "tests": [],
+              "total_items": 1
+            },
+            {
+              "id": "6aa5a5dbe5cdffcf33559060",
+              "name": "Chapter - 4",
+              "children": [],
+              "videos": [],
+              "pdfs": [],
+              "tests": [],
+              "total_items": 0
+            },
+            {
+              "id": "6aa5a5e2813736b665e17e4c",
+              "name": "Chapter - 5 ( कोशिका )",
+              "children": [],
+              "videos": [],
+              "pdfs": [
+                {
+                  "title": "Panel Pdf // Class - 1",
+                  "url": "https://image-store.blr1.cdn.digitaloceanspaces.com/pdfs/803f562e-7bcf-487b-879f-64f016fed845.pdf",
+                  "fileName": "fb14f7d0-949d-44bd-8b77-2749a1cf77c3 (1).pdf"
+                },
+                {
+                  "title": "Panel Pdf // Class - 2",
+                  "url": "https://image-store.blr1.cdn.digitaloceanspaces.com/pdfs/4fb9e055-3436-4690-a185-0e7ed5c91d1e.pdf",
+                  "fileName": "3b016243-4449-4735-b87f-14d29cd8c3c7.pdf"
+                },
+                {
+                  "title": "Panel Pdf // Class - 3",
+                  "url": "https://image-store.blr1.cdn.digitaloceanspaces.com/pdfs/dbec0fa8-59a7-40db-bb06-7152debf7a32.pdf",
+                  "fileName": "20260912170650656_11zon.pdf"
+                }
+              ],
+              "tests": [],
+              "total_items": 3
+            },
+            {
+              "id": "6ac4a6d8ad8d9b778ffb5e0f",
+              "name": "Chapter - 6",
+              "children": [],
+              "videos": [],
+              "pdfs": [],
+              "tests": [],
+              "total_items": 0
+            },
+            {
+              "id": "6ac4a74ce1bbc625cd63f25c",
+              "name": "Chapter - 7 ( गति )",
+              "children": [],
+              "videos": [],
+              "pdfs": [
+                {
+                  "title": "Panel Pdf // Class - 1",
+                  "url": "https://image-store.blr1.cdn.digitaloceanspaces.com/pdfs/88e86c19-3abd-4abd-9f32-f8511351af6b.pdf",
+                  "fileName": "20260919164627971_11zon.pdf"
+                },
+                {
+                  "title": "Panel Pdf // Class - 2",
+                  "url": "https://image-store.blr1.cdn.digitaloceanspaces.com/pdfs/a2c052db-df89-4585-979e-a54257693010.pdf",
+                  "fileName": "20260925170326330_11zon.pdf"
+                },
+                {
+                  "title": "Panel Pdf // Class - 3",
+                  "url": "https://image-store.blr1.cdn.digitaloceanspaces.com/pdfs/9db0b7df-8885-4d11-8305-85a10ed54743.pdf",
+                  "fileName": "20260926170119837_11zon.pdf"
+                },
+                {
+                  "title": "Panel Pdf // Class - 4",
+                  "url": "https://image-store.blr1.cdn.digitaloceanspaces.com/pdfs/673143ae-4b2f-4070-a923-6bed931ba6a7.pdf",
+                  "fileName": "20261005170659562_11zon.pdf"
+                }
+              ],
+              "tests": [],
+              "total_items": 4
+            }
+          ],
+          "videos": [],
+          "pdfs": [],
+          "tests": [],
+          "total_items": 0
+        },
+        {
+          "id": "69df36a66b84161601d47e97",
+          "name": "SOCIAL SCIENCE - सामाजिक विज्ञान",
+          "children": [
+            {
+              "id": "69df37ecb34e7f28cc89316b",
+              "name": "HISTORY - इतिहास",
+              "children": [
+                {
+                  "id": "69df38236b84161601d4fd77",
+                  "name": "Chapter - 1 ( फ्रांसीसी क्रांति )",
+                  "children": [],
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "Notes",
+                      "url": "https://image-store.blr1.cdn.digitaloceanspaces.com/pdfs/8e00dc01-cca4-4f9c-ad19-9d7b622479a3.pdf",
+                      "fileName": "ch - 1 (1).pdf"
+                    },
+                    {
+                      "title": "Panel Pdf // Class - 1",
+                      "url": "https://image-store.blr1.cdn.digitaloceanspaces.com/pdfs/3ee49478-2605-461e-8166-3dfb112cde85.pdf",
+                      "fileName": "20260414205452438_11zon.pdf"
+                    },
+                    {
+                      "title": "Panel Pdf // Class - 2",
+                      "url": "https://image-store.blr1.cdn.digitaloceanspaces.com/pdfs/dec74a47-f1a6-49a8-aac7-598ed01ad7d6.pdf",
+                      "fileName": "20260415205815233_11zon.pdf"
+                    },
+                    {
+                      "title": "Panel Pdf // Class - 3",
+                      "url": "https://image-store.blr1.cdn.digitaloceanspaces.com/pdfs/fce54c1f-5fa5-48a3-aee6-4469e80f3f46.pdf",
+                      "fileName": "20260428210508206 (1)_11zon.pdf"
+                    },
+                    {
+                      "title": "Panel Pdf // Class - 4",
+                      "url": "https://image-store.blr1.cdn.digitaloceanspaces.com/pdfs/06a2e35c-675e-426f-9f2c-7dfeb9b64761.pdf",
+                      "fileName": "11zon_removed-pages-PDF (88).pdf"
+                    },
+                    {
+                      "title": "Panel Pdf // Class - 5",
+                      "url": "https://image-store.blr1.cdn.digitaloceanspaces.com/pdfs/5d7f56ff-4d77-4e16-9ee8-b4f3a3b70460.pdf",
+                      "fileName": "20260430192330981_11zon.pdf"
+                    },
+                    {
+                      "title": "Panel Pdf // Class - 6",
+                      "url": "https://image-store.blr1.cdn.digitaloceanspaces.com/pdfs/b7aaaa7f-a2fe-4db9-b695-e088cc059fcd.pdf",
+                      "fileName": "20260501193833417 (1)_11zon.pdf"
+                    },
+                    {
+                      "title": "Panel Pdf // Objective & Subjective Questions",
+                      "url": "https://image-store.blr1.cdn.digitaloceanspaces.com/pdfs/4098d38c-ee9e-477d-a1a4-9e005b786437.pdf",
+                      "fileName": "11zon_removed-pages-PDF - 2026-05-09T183428.953.pdf"
+                    }
+                  ],
+                  "tests": [],
+                  "total_items": 8
+                },
+                {
+                  "id": "6a7181e476236063df0cd344",
+                  "name": "Chapter - 2 ( यूरोप में समाजवाद एवं रूसी क्रांति )",
+                  "children": [],
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "Panel Pdf // Class - 1",
+                      "url": "https://image-store.blr1.cdn.digitaloceanspaces.com/pdfs/a331fbcf-2630-4ccb-9fc0-5abb42386b98.pdf",
+                      "fileName": "20260725211715781_11zon.pdf"
+                    },
+                    {
+                      "title": "Panel Pdf // Class - 2",
+                      "url": "https://image-store.blr1.cdn.digitaloceanspaces.com/pdfs/ab89784c-7cec-4dcd-adb3-ed6ef751ff35.pdf",
+                      "fileName": "20260801193355371_11zon.pdf"
+                    },
+                    {
+                      "title": "Panel Pdf // Class - 3",
+                      "url": "https://image-store.blr1.cdn.digitaloceanspaces.com/pdfs/2167c022-c44f-437f-aa6c-14e12756a0e0.pdf",
+                      "fileName": "20260806210201079_11zon.pdf"
+                    },
+                    {
+                      "title": "Panel Pdf // Class - 4",
+                      "url": "https://image-store.blr1.cdn.digitaloceanspaces.com/pdfs/d470f9c9-2218-4e0e-bc60-29853a2df072.pdf",
+                      "fileName": "20260807210352202_11zon.pdf"
+                    },
+                    {
+                      "title": "Panel Pdf // Class - 5",
+                      "url": "https://image-store.blr1.cdn.digitaloceanspaces.com/pdfs/275cad52-38a7-4685-b553-1825d85a4c31.pdf",
+                      "fileName": "20260808210604221_11zon.pdf"
+                    },
+                    {
+                      "title": "Panel Pdf // Class - 6",
+                      "url": "https://image-store.blr1.cdn.digitaloceanspaces.com/pdfs/a49c9e2e-2261-4247-84f9-03328baf4980.pdf",
+                      "fileName": "20260820204439361_11zon.pdf"
+                    },
+                    {
+                      "title": "Panel Pdf // Class - 7",
+                      "url": "https://image-store.blr1.cdn.digitaloceanspaces.com/pdfs/fa1e1be5-3840-4fa4-85dc-36a3c9fda577.pdf",
+                      "fileName": "20260821211010311 (1)_11zon.pdf"
+                    },
+                    {
+                      "title": "Panel Pdf // Live Test",
+                      "url": "https://image-store.blr1.cdn.digitaloceanspaces.com/pdfs/d3a9fc79-37de-457e-8383-b1a5866316b1.pdf",
+                      "fileName": "20260822211317477_11zon.pdf"
+                    }
+                  ],
+                  "tests": [],
+                  "total_items": 8
+                },
+                {
+                  "id": "6ac4ac38ad8d9b778f012a36",
+                  "name": "Chapter - 3 ( नात्सीवाद और हिटलर का उदय )",
+                  "children": [],
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "Panel Pdf // Class - 1",
+                      "url": "https://image-store.blr1.cdn.digitaloceanspaces.com/pdfs/5f4cde3e-9609-4651-b747-8a239694ab1e.pdf",
+                      "fileName": "20261001205847550_11zon.pdf"
+                    },
+                    {
+                      "title": "Panel Pdf // Class - 2",
+                      "url": "https://image-store.blr1.cdn.digitaloceanspaces.com/pdfs/7f0b1cfa-5a67-4f85-b824-9330eb9000a5.pdf",
+                      "fileName": "20261002210449783_11zon.pdf"
+                    },
+                    {
+                      "title": "Panel Pdf // Class - 3",
+                      "url": "https://image-store.blr1.cdn.digitaloceanspaces.com/pdfs/d5d84192-42f0-4a68-b8e2-6167713b84c8.pdf",
+                      "fileName": "20261003210646492_11zon.pdf"
+                    }
+                  ],
+                  "tests": [],
+                  "total_items": 3
+                }
+              ],
+              "videos": [],
+              "pdfs": [],
+              "tests": [],
+              "total_items": 0
+            },
+            {
+              "id": "69ff31084491a1af61705453",
+              "name": "GEOGRAPHY - भूगोल",
+              "children": [
+                {
+                  "id": "69ff312e4491a1af6170f595",
+                  "name": "Chapter - 1 ( भारत: आकर और स्थिति )",
+                  "children": [],
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "Panel Pdf // Class - 1",
+                      "url": "https://image-store.blr1.cdn.digitaloceanspaces.com/pdfs/dac8b214-159b-4c15-8ca6-2b6e25245503.pdf",
+                      "fileName": "20260507185356123_11zon.pdf"
+                    },
+                    {
+                      "title": "Panel Pdf // Class - 2",
+                      "url": "https://image-store.blr1.cdn.digitaloceanspaces.com/pdfs/b43e7d86-3d56-471a-9513-af5e6e346905.pdf",
+                      "fileName": "11zon_removed-pages-PDF - 2026-05-09T184350.597.pdf"
+                    },
+                    {
+                      "title": "Panel Pdf // Class - 3",
+                      "url": "https://image-store.blr1.cdn.digitaloceanspaces.com/pdfs/a564bf35-f6f7-4e45-a265-92aca778ea6a.pdf",
+                      "fileName": "20260509190459598_11zon.pdf"
+                    }
+                  ],
+                  "tests": [],
+                  "total_items": 3
+                },
+                {
+                  "id": "6a46a23df7ab00dda88c97a5",
+                  "name": "Chapter - 2 ( भारत का भौतिक स्वरूप )",
+                  "children": [],
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "Panel Pdf // One Shot",
+                      "url": "https://image-store.blr1.cdn.digitaloceanspaces.com/pdfs/a7d3682a-f3b5-4ba8-9f58-e1c0a121fc86.pdf",
+                      "fileName": "20260627213612154_11zon.pdf"
+                    },
+                    {
+                      "title": "Panel Pdf // Objective & Subjective Questions",
+                      "url": "https://image-store.blr1.cdn.digitaloceanspaces.com/pdfs/bcf8fe08-8292-4ccc-add7-72418d771d60.pdf",
+                      "fileName": "20260704210541794_11zon.pdf"
+                    }
+                  ],
+                  "tests": [],
+                  "total_items": 2
+                }
+              ],
+              "videos": [],
+              "pdfs": [],
+              "tests": [],
+              "total_items": 0
+            },
+            {
+              "id": "6a9a7d6e80f0d32523fb03bb",
+              "name": "CIVICS - नागरिक शास्त्र",
+              "children": [
+                {
+                  "id": "6a9a7da680f0d32523fb2b3e",
+                  "name": "Chapter - 1 ( लोकतंत्र क्या? & लोकतंत्र क्यों? )",
+                  "children": [],
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "Panel Pdf // Class - 1",
+                      "url": "https://image-store.blr1.cdn.digitaloceanspaces.com/pdfs/f261c58b-c06b-4b2e-808d-4caaf07f52d0.pdf",
+                      "fileName": "20260827210037071_11zon.pdf"
+                    },
+                    {
+                      "title": "Panel Pdf // Class - 2",
+                      "url": "https://image-store.blr1.cdn.digitaloceanspaces.com/pdfs/9dd2e8cd-1452-4be7-82ec-e456be55ba98.pdf",
+                      "fileName": "20260829210455550_11zon.pdf"
+                    },
+                    {
+                      "title": "Panel Pdf // Class - 3",
+                      "url": "https://image-store.blr1.cdn.digitaloceanspaces.com/pdfs/ede6bed3-831b-48a5-8c1d-e376ccd7ce7e.pdf",
+                      "fileName": "20260903205640208 (1)_11zon (1).pdf"
+                    }
+                  ],
+                  "tests": [],
+                  "total_items": 3
+                }
+              ],
+              "videos": [],
+              "pdfs": [],
+              "tests": [],
+              "total_items": 0
+            },
+            {
+              "id": "6a9a7d7680f0d32523fb05a7",
+              "name": "ECONOMICS - अर्थशास्त्र",
+              "children": [],
+              "videos": [],
+              "pdfs": [],
+              "tests": [],
+              "total_items": 0
+            }
+          ],
+          "videos": [],
+          "pdfs": [],
+          "tests": [],
+          "total_items": 0
+        },
+        {
+          "id": "69df36b012897cb2475909c5",
+          "name": "HINDI - हिन्दी",
+          "children": [
+            {
+              "id": "69df49928fa4a4bac572c118",
+              "name": "गद्यखंड",
+              "children": [],
+              "videos": [],
+              "pdfs": [],
+              "tests": [],
+              "total_items": 0
+            },
+            {
+              "id": "69df499db34e7f28cc920e3b",
+              "name": "पद्यखंड",
+              "children": [
+                {
+                  "id": "69e3752f3bf8ae9d98b9e7ce",
+                  "name": "Chapter - 1 ( साखी )",
+                  "children": [],
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "Hindi पद्यखंड Chapter - 1 ( NOTES )",
+                      "url": "https://image-store.blr1.cdn.digitaloceanspaces.com/pdfs/77436ae4-171a-45ad-ab54-68561dc917f7.pdf",
+                      "fileName": "ch - 1 (3).pdf"
+                    }
+                  ],
+                  "tests": [],
+                  "total_items": 1
+                },
+                {
+                  "id": "69e37535a32a014e92681a4c",
+                  "name": "Chapter - 2 ( पदावली )",
+                  "children": [],
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "Hindi पद्यखंड Chapter - 2 ( NOTES )",
+                      "url": "https://image-store.blr1.cdn.digitaloceanspaces.com/pdfs/d3f65386-bcc9-4785-b8e6-5656cb8263d2.pdf",
+                      "fileName": "ch - 2 (1).pdf"
+                    }
+                  ],
+                  "tests": [],
+                  "total_items": 1
+                },
+                {
+                  "id": "69ff33ec27e85f44b868d85b",
+                  "name": "Chapter - 3 ( दोहा )",
+                  "children": [],
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "Hindi पद्यखंड Chapter - 3 ( NOTES )",
+                      "url": "https://image-store.blr1.cdn.digitaloceanspaces.com/pdfs/96280a3d-bdc7-4ff1-a3eb-f8c5d326b7b2.pdf",
+                      "fileName": "ch - 3 (3).pdf"
+                    }
+                  ],
+                  "tests": [],
+                  "total_items": 1
+                },
+                {
+                  "id": "6a02ae82e41f9df8384bc308",
+                  "name": "Chapter - 4 ( प्रभु जी तुम चंदन हम पानी )",
+                  "children": [],
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "Hindi पद्यखंड Chapter - 4 ( NOTES )",
+                      "url": "https://image-store.blr1.cdn.digitaloceanspaces.com/pdfs/1cc55c12-660b-4688-a97f-aa4cd1aa8e7b.pdf",
+                      "fileName": "ch - 4 (4).pdf"
+                    }
+                  ],
+                  "tests": [],
+                  "total_items": 1
+                },
+                {
+                  "id": "6a9a9189458d223414e64181",
+                  "name": "Chapter - 5 ( पंचवटी )",
+                  "children": [],
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "Hindi पद्यखंड Chapter - 5 ( NOTES )",
+                      "url": "https://image-store.blr1.cdn.digitaloceanspaces.com/pdfs/507160f2-c55f-496f-adff-304cbe7f3f63.pdf",
+                      "fileName": "ch - 5 (6).pdf"
+                    }
+                  ],
+                  "tests": [],
+                  "total_items": 1
+                }
+              ],
+              "videos": [],
+              "pdfs": [],
+              "tests": [],
+              "total_items": 0
+            },
+            {
+              "id": "69df49a612897cb2476585af",
+              "name": "हिन्दी व्याकरण",
+              "children": [
+                {
+                  "id": "6a9a92b1458d223414e96259",
+                  "name": "रस",
+                  "children": [],
+                  "videos": [],
+                  "pdfs": [],
+                  "tests": [],
+                  "total_items": 0
+                },
+                {
+                  "id": "6a9a92bb80f0d325231c6504",
+                  "name": "अलंकार",
+                  "children": [],
+                  "videos": [],
+                  "pdfs": [],
+                  "tests": [],
+                  "total_items": 0
+                },
+                {
+                  "id": "6a9a92c98bbaf71bfaa90fc3",
+                  "name": "छंद",
+                  "children": [],
+                  "videos": [],
+                  "pdfs": [],
+                  "tests": [],
+                  "total_items": 0
+                },
+                {
+                  "id": "6a9a92d2458d223414e99876",
+                  "name": "समास",
+                  "children": [],
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "समास",
+                      "url": "https://image-store.blr1.cdn.digitaloceanspaces.com/pdfs/da0c044a-7b80-4617-94e8-938692db1765.pdf",
+                      "fileName": "20260818170350491_11zon.pdf"
+                    }
+                  ],
+                  "tests": [],
+                  "total_items": 1
+                }
+              ],
+              "videos": [],
+              "pdfs": [],
+              "tests": [],
+              "total_items": 0
+            }
+          ],
+          "videos": [],
+          "pdfs": [],
+          "tests": [],
+          "total_items": 0
+        },
+        {
+          "id": "69df36b7de81766c7a62ed4a",
+          "name": "SANSKRIT - संस्कृत",
+          "children": [
+            {
+              "id": "6a9a94fc8bbaf71bfaabd0c9",
+              "name": "अनिवार्य संस्कृत",
+              "children": [
+                {
+                  "id": "6a9a95189938634675a9c630",
+                  "name": "Chapter - 1 ( वंदना )",
+                  "children": [],
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "Panel Pdf // One Shot",
+                      "url": "https://image-store.blr1.cdn.digitaloceanspaces.com/pdfs/7897182b-3077-4ea5-89a1-f52889b5cb03.pdf",
+                      "fileName": "20260824163348154_11zon.pdf"
+                    }
+                  ],
+                  "tests": [],
+                  "total_items": 1
+                },
+                {
+                  "id": "6a9a952ac78eacfd042a1ec7",
+                  "name": "Chapter - 2 ( सदाचार: )",
+                  "children": [],
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "Panel Pdf // One Shot",
+                      "url": "https://image-store.blr1.cdn.digitaloceanspaces.com/pdfs/e00cf938-e283-40f7-af62-05021d7b44da.pdf",
+                      "fileName": "20260825164142989_11zon.pdf"
+                    }
+                  ],
+                  "tests": [],
+                  "total_items": 1
+                },
+                {
+                  "id": "6a9a95499728d6709e738e72",
+                  "name": "Chapter - 3 ( पुरुषोत्तम: राम: )",
+                  "children": [],
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "Panel Pdf // One Shot",
+                      "url": "https://image-store.blr1.cdn.digitaloceanspaces.com/pdfs/ac40680f-6fb8-483a-9fba-9c916bf7511e.pdf",
+                      "fileName": "20260831164434335_11zon.pdf"
+                    }
+                  ],
+                  "tests": [],
+                  "total_items": 1
+                },
+                {
+                  "id": "6a9a95578bbaf71bfaabeff2",
+                  "name": "Chapter - 4 ( सिद्धिमंत्र: )",
+                  "children": [],
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "Panel Pdf // One Shot",
+                      "url": "https://image-store.blr1.cdn.digitaloceanspaces.com/pdfs/fefcb819-2c2b-4f40-9f41-c1b4ff422538.pdf",
+                      "fileName": "20260901164949316_11zon.pdf"
+                    }
+                  ],
+                  "tests": [],
+                  "total_items": 1
+                }
+              ],
+              "videos": [],
+              "pdfs": [],
+              "tests": [],
+              "total_items": 0
+            }
+          ],
+          "videos": [],
+          "pdfs": [],
+          "tests": [],
+          "total_items": 0
+        },
+        {
+          "id": "69df36c7de81766c7a62f2d8",
+          "name": "MATHS - गणित",
+          "children": [
+            {
+              "id": "6a02aafa689bd1b693c762e4",
+              "name": "Chapter - 1 ( संख्या पद्धति )",
+              "children": [],
+              "videos": [],
+              "pdfs": [
+                {
+                  "title": "Panel Pdf // One Shot Class - 1",
+                  "url": "https://image-store.blr1.cdn.digitaloceanspaces.com/pdfs/db725a18-8cfa-4ff8-9b9f-c06324c749a6.pdf",
+                  "fileName": "20260623212444847_11zon.pdf"
+                },
+                {
+                  "title": "Panel Pdf // One Shot Class - 2",
+                  "url": "https://image-store.blr1.cdn.digitaloceanspaces.com/pdfs/6e63972f-2cf7-4385-856e-187ffe2536c5.pdf",
+                  "fileName": "20260629210754924_11zon.pdf"
+                },
+                {
+                  "title": "Panel Pdf // One Shot Class - 3",
+                  "url": "https://image-store.blr1.cdn.digitaloceanspaces.com/pdfs/fffaf48f-5e32-4c90-8bb4-78240b707b5e.pdf",
+                  "fileName": "20260630210139275_11zon.pdf"
+                },
+                {
+                  "title": "Panel Pdf // One Shot Class - 4",
+                  "url": "https://image-store.blr1.cdn.digitaloceanspaces.com/pdfs/45083f6a-3844-4054-aa5c-59f138d38f54.pdf",
+                  "fileName": "20260706205004541_11zon.pdf"
+                }
+              ],
+              "tests": [],
+              "total_items": 4
+            },
+            {
+              "id": "6a717d14ced373fc21c4ad41",
+              "name": "Chapter - 2 ( बहुपद )",
+              "children": [],
+              "videos": [],
+              "pdfs": [
+                {
+                  "title": "Panel Pdf // Class - 1",
+                  "url": "https://image-store.blr1.cdn.digitaloceanspaces.com/pdfs/fae2f52c-7620-40a5-a4a0-99de97dd0501.pdf",
+                  "fileName": "20260709210419902_11zon.pdf"
+                },
+                {
+                  "title": "Panel Pdf // Class - 2",
+                  "url": "https://image-store.blr1.cdn.digitaloceanspaces.com/pdfs/14511e77-b072-4e21-88ad-37b84316bab7.pdf",
+                  "fileName": "20260713210559628_11zon.pdf"
+                },
+                {
+                  "title": "Panel Pdf // Class - 3",
+                  "url": "https://image-store.blr1.cdn.digitaloceanspaces.com/pdfs/26081b9f-78e2-4a30-bb1e-aa34bba88d9d.pdf",
+                  "fileName": "20260714205929856_11zon.pdf"
+                },
+                {
+                  "title": "Panel Pdf // Class - 4",
+                  "url": "https://image-store.blr1.cdn.digitaloceanspaces.com/pdfs/2f465de4-d8a1-43eb-8c24-3573b1a0568b.pdf",
+                  "fileName": "20260720210312878_11zon.pdf"
+                },
+                {
+                  "title": "Panel Pdf // Class - 5",
+                  "url": "https://image-store.blr1.cdn.digitaloceanspaces.com/pdfs/5e515ac9-3223-424e-a184-891a11f9dff5.pdf",
+                  "fileName": "20260721210538737_11zon.pdf"
+                },
+                {
+                  "title": "Panel Pdf // Class - 6",
+                  "url": "https://image-store.blr1.cdn.digitaloceanspaces.com/pdfs/e7c48541-6921-4b3b-bfca-e0c528b58f4c.pdf",
+                  "fileName": "20260803205228323_11zon.pdf"
+                }
+              ],
+              "tests": [],
+              "total_items": 6
+            },
+            {
+              "id": "6a84b177e7ed2dad9d64fc90",
+              "name": "Chapter - 3 ( निर्देशांक ज्यामिति )",
+              "children": [],
+              "videos": [],
+              "pdfs": [
+                {
+                  "title": "Panel Pdf // One Shot",
+                  "url": "https://image-store.blr1.cdn.digitaloceanspaces.com/pdfs/36a1ef50-9f16-4904-b0b7-a2411c94176d.pdf",
+                  "fileName": "20260804203910704_11zon.pdf"
+                }
+              ],
+              "tests": [],
+              "total_items": 1
+            },
+            {
+              "id": "6a84b188c8b56dc032dc32f9",
+              "name": "Chapter - 4 ( दो चर वाले रैखिक समीकरण युग्म )",
+              "children": [],
+              "videos": [],
+              "pdfs": [
+                {
+                  "title": "Panel Pdf // Class - 1",
+                  "url": "https://image-store.blr1.cdn.digitaloceanspaces.com/pdfs/0592300d-f685-4034-8856-13f9eb0edbaa.pdf",
+                  "fileName": "20260810210602478_11zon.pdf"
+                },
+                {
+                  "title": "Panel Pdf // Class - 2",
+                  "url": "https://image-store.blr1.cdn.digitaloceanspaces.com/pdfs/74346d18-ee29-461a-95ff-c26a962df6c1.pdf",
+                  "fileName": "20260811204429555_11zon.pdf"
+                },
+                {
+                  "title": "Panel Pdf // Class - 3",
+                  "url": "https://image-store.blr1.cdn.digitaloceanspaces.com/pdfs/a5e5059c-3631-475f-8c7b-66a9a2cb8035.pdf",
+                  "fileName": "20260817210321113_11zon.pdf"
+                },
+                {
+                  "title": "Panel Pdf // Class - 4",
+                  "url": "https://image-store.blr1.cdn.digitaloceanspaces.com/pdfs/3c9e002a-6c7a-4293-a2bd-3af250f97a31.pdf",
+                  "fileName": "20260818204954018_11zon.pdf"
+                }
+              ],
+              "tests": [],
+              "total_items": 4
+            },
+            {
+              "id": "6aa53808726e33fc4da469b0",
+              "name": "Chapter - 5 ( यूक्लिड की ज्यामिति का परिचय )",
+              "children": [],
+              "videos": [],
+              "pdfs": [],
+              "tests": [],
+              "total_items": 0
+            },
+            {
+              "id": "6aa53819726e33fc4da47012",
+              "name": "Chapter - 6 ( रेखा और कोण )",
+              "children": [],
+              "videos": [],
+              "pdfs": [
+                {
+                  "title": "Panel Pdf // Class - 4",
+                  "url": "https://image-store.blr1.cdn.digitaloceanspaces.com/pdfs/13ff6bdb-8f87-4881-9533-2e0188aec7fa.pdf",
+                  "fileName": "20260831205635622_11zon.pdf"
+                }
+              ],
+              "tests": [],
+              "total_items": 1
+            },
+            {
+              "id": "6aa538304f2e4db8819c809c",
+              "name": "Chapter - 7 ( त्रिभुज )",
+              "children": [],
+              "videos": [],
+              "pdfs": [
+                {
+                  "title": "Panel Pdf // Class - 5",
+                  "url": "https://image-store.blr1.cdn.digitaloceanspaces.com/pdfs/55276d28-282a-443c-8ac4-e2bdd027ddab.pdf",
+                  "fileName": "20260921210211119_11zon.pdf"
+                },
+                {
+                  "title": "Panel Pdf // Class - 7",
+                  "url": "https://image-store.blr1.cdn.digitaloceanspaces.com/pdfs/958830eb-bfcf-4666-91b7-80e04c75f1f9.pdf",
+                  "fileName": "20260923205245862_11zon.pdf"
+                }
+              ],
+              "tests": [],
+              "total_items": 2
+            },
+            {
+              "id": "6ac47aaf7e1c32b32ec35696",
+              "name": "Chapter - 8 ( चतुर्भुज )",
+              "children": [],
+              "videos": [],
+              "pdfs": [
+                {
+                  "title": "Panel Pdf // Class - 1",
+                  "url": "https://image-store.blr1.cdn.digitaloceanspaces.com/pdfs/aa24388c-0f3f-46e8-bf8d-5fb274c89e78.pdf",
+                  "fileName": "20260928205521573_11zon.pdf"
+                },
+                {
+                  "title": "Panel Pdf // Class - 3",
+                  "url": "https://image-store.blr1.cdn.digitaloceanspaces.com/pdfs/0c9e36e8-e435-43b2-9645-e9df7e0ffbb9.pdf",
+                  "fileName": "20261005204846190_11zon.pdf"
+                }
+              ],
+              "tests": [],
+              "total_items": 2
+            }
+          ],
+          "videos": [],
+          "pdfs": [],
+          "tests": [],
+          "total_items": 0
+        },
+        {
+          "id": "69df36d3b34e7f28cc8839c5",
+          "name": "ENGLISH - अंग्रेजी",
+          "children": [
+            {
+              "id": "69e37545a32a014e92681af4",
+              "name": "Basic Class",
+              "children": [],
+              "videos": [],
+              "pdfs": [],
+              "tests": [],
+              "total_items": 0
+            },
+            {
+              "id": "69ff3c81e41f9df83833abd1",
+              "name": "Prose Section",
+              "children": [
+                {
+                  "id": "69ff3cfb27e85f44b880a526",
+                  "name": "Chapter - 1 ( The Fun They Had )",
+                  "children": [],
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "Panel Pdf // One Shot",
+                      "url": "https://image-store.blr1.cdn.digitaloceanspaces.com/pdfs/dc622323-4875-49a9-8923-d694a551e7a3.pdf",
+                      "fileName": "20260624220958420_11zon.pdf"
+                    }
+                  ],
+                  "tests": [],
+                  "total_items": 1
+                },
+                {
+                  "id": "69ff3d1db3a6c7019433480f",
+                  "name": "Chapter - 2 ( The Sound Of Music )",
+                  "children": [],
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "Panel Pdf // Class - 1",
+                      "url": "https://image-store.blr1.cdn.digitaloceanspaces.com/pdfs/fa4c59d1-45b9-4bf8-9e98-3e5f31633fbe.pdf",
+                      "fileName": "20260507211319419_11zon.pdf"
+                    },
+                    {
+                      "title": "Panel Pdf // Class - 2",
+                      "url": "https://image-store.blr1.cdn.digitaloceanspaces.com/pdfs/848dad84-d94d-44cc-8d43-733e497985aa.pdf",
+                      "fileName": "20260508140022290 (3)_11zon.pdf"
+                    },
+                    {
+                      "title": "Panel Pdf // One Shot",
+                      "url": "https://image-store.blr1.cdn.digitaloceanspaces.com/pdfs/d9fd846c-761c-43fc-ba76-10dd9ed67bf3.pdf",
+                      "fileName": "20260701212314596 (1)_11zon.pdf"
+                    }
+                  ],
+                  "tests": [],
+                  "total_items": 3
+                },
+                {
+                  "id": "6a718a7c62737e00f79afbd6",
+                  "name": "Chapter - 3 ( The Little Girl )",
+                  "children": [],
+                  "videos": [],
+                  "pdfs": [],
+                  "tests": [],
+                  "total_items": 0
+                },
+                {
+                  "id": "6a718ab4d9feb8d5d5e6acf6",
+                  "name": "Chapter - 4 ( A Truly Beautiful Mind )",
+                  "children": [],
+                  "videos": [],
+                  "pdfs": [],
+                  "tests": [],
+                  "total_items": 0
+                }
+              ],
+              "videos": [],
+              "pdfs": [],
+              "tests": [],
+              "total_items": 0
+            },
+            {
+              "id": "69ff3c87b3a6c70194324317",
+              "name": "Poetry Section",
+              "children": [],
+              "videos": [],
+              "pdfs": [],
+              "tests": [],
+              "total_items": 0
+            },
+            {
+              "id": "6a9a986e36cfe31425f7d8db",
+              "name": "English Grammar",
+              "children": [
+                {
+                  "id": "6a9a98a3c78eacfd04323434",
+                  "name": "Basic Class",
+                  "children": [],
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "Panel Pdf // Class - 1",
+                      "url": "https://image-store.blr1.cdn.digitaloceanspaces.com/pdfs/e79bf52d-fbd9-4984-945c-754d21c359ef.pdf",
+                      "fileName": "ad358995-349e-48f3-8652-d2fc0ece0ee4.pdf"
+                    },
+                    {
+                      "title": "Panel Pdf // Class - 3",
+                      "url": "https://image-store.blr1.cdn.digitaloceanspaces.com/pdfs/2cfbf0e6-419e-4807-aced-0b3a83ea191a.pdf",
+                      "fileName": "20260806170250065_11zon.pdf"
+                    }
+                  ],
+                  "tests": [],
+                  "total_items": 2
+                },
+                {
+                  "id": "6a9a98af9938634675b327ac",
+                  "name": "Phrase",
+                  "children": [],
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "Panel Pdf // One Shot",
+                      "url": "https://image-store.blr1.cdn.digitaloceanspaces.com/pdfs/665a5b2d-885b-41b2-bfc9-9cf3da4466b3.pdf",
+                      "fileName": "20260812170913441_11zon.pdf"
+                    }
+                  ],
+                  "tests": [],
+                  "total_items": 1
+                },
+                {
+                  "id": "6a9a98c89938634675b32eb5",
+                  "name": "Clause",
+                  "children": [],
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "Panel Pdf // One Shot",
+                      "url": "https://image-store.blr1.cdn.digitaloceanspaces.com/pdfs/749c7c2a-4ac1-438d-8394-13168e55acb7.pdf",
+                      "fileName": "20260819164657877_11zon.pdf"
+                    }
+                  ],
+                  "tests": [],
+                  "total_items": 1
+                },
+                {
+                  "id": "6a9a98d19938634675b33269",
+                  "name": "Sentence",
+                  "children": [],
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "Panel Pdf // One Shot",
+                      "url": "https://image-store.blr1.cdn.digitaloceanspaces.com/pdfs/7e40f2ed-3c94-42d2-9b43-b97931467865.pdf",
+                      "fileName": "20260820164508659 (1)_11zon.pdf"
+                    }
+                  ],
+                  "tests": [],
+                  "total_items": 1
+                },
+                {
+                  "id": "6a9a98e9eb40ea5b97355d55",
+                  "name": "Parts Of Speech",
+                  "children": [],
+                  "videos": [],
+                  "pdfs": [],
+                  "tests": [],
+                  "total_items": 0
+                },
+                {
+                  "id": "6a9a9dc08bbaf71bfaba0764",
+                  "name": "Noun",
+                  "children": [],
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "Panel Pdf // Class - 1",
+                      "url": "https://image-store.blr1.cdn.digitaloceanspaces.com/pdfs/b293cbe0-9f87-421f-be58-2572a4eecd28.pdf",
+                      "fileName": "20260902165156517_11zon.pdf"
+                    },
+                    {
+                      "title": "Panel Pdf // Class - 2",
+                      "url": "https://image-store.blr1.cdn.digitaloceanspaces.com/pdfs/ee1c898e-8be3-4661-9cad-775cf6f090e1.pdf",
+                      "fileName": "20260903164553774_11zon.pdf"
+                    }
+                  ],
+                  "tests": [],
+                  "total_items": 2
+                }
+              ],
+              "videos": [],
+              "pdfs": [],
+              "tests": [],
+              "total_items": 0
+            }
+          ],
+          "videos": [],
+          "pdfs": [],
+          "tests": [],
+          "total_items": 0
+        }
+      ],
+      "videos": [],
+      "pdfs": [],
+      "tests": [],
+      "total_items": 0
+    },
+    {
+      "id": "6a718723ced373fc21d3dfb4",
+      "name": "Youtube Common Class",
+      "children": [],
+      "videos": [],
+      "pdfs": [
+        {
+          "title": "Panel Pdf // Hindi पद्यखंड Chapter - 1 To 3 Complete Revision",
+          "url": "https://image-store.blr1.cdn.digitaloceanspaces.com/pdfs/eb6b3ba2-637d-4127-a0eb-2a8a8b00131c.pdf",
+          "fileName": "20260802165902423_11zon (1).pdf"
+        },
+        {
+          "title": "Panel Pdf // Sst Live Quiz",
+          "url": "https://image-store.blr1.cdn.digitaloceanspaces.com/pdfs/935f461d-eed6-44a4-9303-8cb597f5ff2d.pdf",
+          "fileName": "20260813210445929_11zon.pdf"
+        }
+      ],
+      "tests": [
+        {
+          "title": "Testing test",
+          "questions": 45,
+          "minutes": 60
+        }
+      ],
+      "total_items": 3
+    }
+  ],
+  "raw_tree": [
+    {
+      "id": "69d8ad265708bce2fb56ead3",
+      "name": "Class 9th - All Subject ( आगे बढ़िए और पढ़ना शुरू करिए )",
+      "children": [
+        {
+          "id": "69df368501b334310ca657ba",
+          "name": "SCIENCE - विज्ञान",
+          "children": [
+            {
+              "id": "69e37257612a97917941da34",
+              "name": "Basic Class & Formula Class",
+              "children": []
+            },
+            {
+              "id": "69f1ba04fb26ccc9e5dcf458",
+              "name": "Chapter - 1 ( हमारे आस - पास के पदार्थ )",
+              "children": []
+            },
+            {
+              "id": "6a84aec104ee2253fb76f834",
+              "name": "Chapter - 2 ( क्या हमारे आसपास के पदार्थ शुद्ध हैं )",
+              "children": []
+            },
+            {
+              "id": "6aa3d93ad083a91d76bf56c0",
+              "name": "Chapter - 3 ( परमाणु एवं अणु )",
+              "children": []
+            },
+            {
+              "id": "6aa5a5dbe5cdffcf33559060",
+              "name": "Chapter - 4",
+              "children": []
+            },
+            {
+              "id": "6aa5a5e2813736b665e17e4c",
+              "name": "Chapter - 5 ( कोशिका )",
+              "children": []
+            },
+            {
+              "id": "6ac4a6d8ad8d9b778ffb5e0f",
+              "name": "Chapter - 6",
+              "children": []
+            },
+            {
+              "id": "6ac4a74ce1bbc625cd63f25c",
+              "name": "Chapter - 7 ( गति )",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "69df36a66b84161601d47e97",
+          "name": "SOCIAL SCIENCE - सामाजिक विज्ञान",
+          "children": [
+            {
+              "id": "69df37ecb34e7f28cc89316b",
+              "name": "HISTORY - इतिहास",
+              "children": [
+                {
+                  "id": "69df38236b84161601d4fd77",
+                  "name": "Chapter - 1 ( फ्रांसीसी क्रांति )",
+                  "children": []
+                },
+                {
+                  "id": "6a7181e476236063df0cd344",
+                  "name": "Chapter - 2 ( यूरोप में समाजवाद एवं रूसी क्रांति )",
+                  "children": []
+                },
+                {
+                  "id": "6ac4ac38ad8d9b778f012a36",
+                  "name": "Chapter - 3 ( नात्सीवाद और हिटलर का उदय )",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "id": "69ff31084491a1af61705453",
+              "name": "GEOGRAPHY - भूगोल",
+              "children": [
+                {
+                  "id": "69ff312e4491a1af6170f595",
+                  "name": "Chapter - 1 ( भारत: आकर और स्थिति )",
+                  "children": []
+                },
+                {
+                  "id": "6a46a23df7ab00dda88c97a5",
+                  "name": "Chapter - 2 ( भारत का भौतिक स्वरूप )",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "id": "6a9a7d6e80f0d32523fb03bb",
+              "name": "CIVICS - नागरिक शास्त्र",
+              "children": [
+                {
+                  "id": "6a9a7da680f0d32523fb2b3e",
+                  "name": "Chapter - 1 ( लोकतंत्र क्या? & लोकतंत्र क्यों? )",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "id": "6a9a7d7680f0d32523fb05a7",
+              "name": "ECONOMICS - अर्थशास्त्र",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "69df36b012897cb2475909c5",
+          "name": "HINDI - हिन्दी",
+          "children": [
+            {
+              "id": "69df49928fa4a4bac572c118",
+              "name": "गद्यखंड",
+              "children": []
+            },
+            {
+              "id": "69df499db34e7f28cc920e3b",
+              "name": "पद्यखंड",
+              "children": [
+                {
+                  "id": "69e3752f3bf8ae9d98b9e7ce",
+                  "name": "Chapter - 1 ( साखी )",
+                  "children": []
+                },
+                {
+                  "id": "69e37535a32a014e92681a4c",
+                  "name": "Chapter - 2 ( पदावली )",
+                  "children": []
+                },
+                {
+                  "id": "69ff33ec27e85f44b868d85b",
+                  "name": "Chapter - 3 ( दोहा )",
+                  "children": []
+                },
+                {
+                  "id": "6a02ae82e41f9df8384bc308",
+                  "name": "Chapter - 4 ( प्रभु जी तुम चंदन हम पानी )",
+                  "children": []
+                },
+                {
+                  "id": "6a9a9189458d223414e64181",
+                  "name": "Chapter - 5 ( पंचवटी )",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "id": "69df49a612897cb2476585af",
+              "name": "हिन्दी व्याकरण",
+              "children": [
+                {
+                  "id": "6a9a92b1458d223414e96259",
+                  "name": "रस",
+                  "children": []
+                },
+                {
+                  "id": "6a9a92bb80f0d325231c6504",
+                  "name": "अलंकार",
+                  "children": []
+                },
+                {
+                  "id": "6a9a92c98bbaf71bfaa90fc3",
+                  "name": "छंद",
+                  "children": []
+                },
+                {
+                  "id": "6a9a92d2458d223414e99876",
+                  "name": "समास",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "69df36b7de81766c7a62ed4a",
+          "name": "SANSKRIT - संस्कृत",
+          "children": [
+            {
+              "id": "6a9a94fc8bbaf71bfaabd0c9",
+              "name": "अनिवार्य संस्कृत",
+              "children": [
+                {
+                  "id": "6a9a95189938634675a9c630",
+                  "name": "Chapter - 1 ( वंदना )",
+                  "children": []
+                },
+                {
+                  "id": "6a9a952ac78eacfd042a1ec7",
+                  "name": "Chapter - 2 ( सदाचार: )",
+                  "children": []
+                },
+                {
+                  "id": "6a9a95499728d6709e738e72",
+                  "name": "Chapter - 3 ( पुरुषोत्तम: राम: )",
+                  "children": []
+                },
+                {
+                  "id": "6a9a95578bbaf71bfaabeff2",
+                  "name": "Chapter - 4 ( सिद्धिमंत्र: )",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "69df36c7de81766c7a62f2d8",
+          "name": "MATHS - गणित",
+          "children": [
+            {
+              "id": "6a02aafa689bd1b693c762e4",
+              "name": "Chapter - 1 ( संख्या पद्धति )",
+              "children": []
+            },
+            {
+              "id": "6a717d14ced373fc21c4ad41",
+              "name": "Chapter - 2 ( बहुपद )",
+              "children": []
+            },
+            {
+              "id": "6a84b177e7ed2dad9d64fc90",
+              "name": "Chapter - 3 ( निर्देशांक ज्यामिति )",
+              "children": []
+            },
+            {
+              "id": "6a84b188c8b56dc032dc32f9",
+              "name": "Chapter - 4 ( दो चर वाले रैखिक समीकरण युग्म )",
+              "children": []
+            },
+            {
+              "id": "6aa53808726e33fc4da469b0",
+              "name": "Chapter - 5 ( यूक्लिड की ज्यामिति का परिचय )",
+              "children": []
+            },
+            {
+              "id": "6aa53819726e33fc4da47012",
+              "name": "Chapter - 6 ( रेखा और कोण )",
+              "children": []
+            },
+            {
+              "id": "6aa538304f2e4db8819c809c",
+              "name": "Chapter - 7 ( त्रिभुज )",
+              "children": []
+            },
+            {
+              "id": "6ac47aaf7e1c32b32ec35696",
+              "name": "Chapter - 8 ( चतुर्भुज )",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "69df36d3b34e7f28cc8839c5",
+          "name": "ENGLISH - अंग्रेजी",
+          "children": [
+            {
+              "id": "69e37545a32a014e92681af4",
+              "name": "Basic Class",
+              "children": []
+            },
+            {
+              "id": "69ff3c81e41f9df83833abd1",
+              "name": "Prose Section",
+              "children": [
+                {
+                  "id": "69ff3cfb27e85f44b880a526",
+                  "name": "Chapter - 1 ( The Fun They Had )",
+                  "children": []
+                },
+                {
+                  "id": "69ff3d1db3a6c7019433480f",
+                  "name": "Chapter - 2 ( The Sound Of Music )",
+                  "children": []
+                },
+                {
+                  "id": "6a718a7c62737e00f79afbd6",
+                  "name": "Chapter - 3 ( The Little Girl )",
+                  "children": []
+                },
+                {
+                  "id": "6a718ab4d9feb8d5d5e6acf6",
+                  "name": "Chapter - 4 ( A Truly Beautiful Mind )",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "id": "69ff3c87b3a6c70194324317",
+              "name": "Poetry Section",
+              "children": []
+            },
+            {
+              "id": "6a9a986e36cfe31425f7d8db",
+              "name": "English Grammar",
+              "children": [
+                {
+                  "id": "6a9a98a3c78eacfd04323434",
+                  "name": "Basic Class",
+                  "children": []
+                },
+                {
+                  "id": "6a9a98af9938634675b327ac",
+                  "name": "Phrase",
+                  "children": []
+                },
+                {
+                  "id": "6a9a98c89938634675b32eb5",
+                  "name": "Clause",
+                  "children": []
+                },
+                {
+                  "id": "6a9a98d19938634675b33269",
+                  "name": "Sentence",
+                  "children": []
+                },
+                {
+                  "id": "6a9a98e9eb40ea5b97355d55",
+                  "name": "Parts Of Speech",
+                  "children": []
+                },
+                {
+                  "id": "6a9a9dc08bbaf71bfaba0764",
+                  "name": "Noun",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6a718723ced373fc21d3dfb4",
+      "name": "Youtube Common Class",
+      "children": []
+    }
+  ],
+  "catalog": {
+    "69e37257612a97917941da34": {
+      "videos": [],
+      "pdfs": [
+        {
+          "title": "Panel Pdf // Basic Class"
+        },
+        {
+          "title": "Panel Pdf // Physics Complete Formula"
+        }
+      ],
+      "tests": []
+    },
+    "69f1ba04fb26ccc9e5dcf458": {
+      "videos": [],
+      "pdfs": [
+        {
+          "title": "Science Chapter - 1 ( NOTES )"
+        },
+        {
+          "title": "Panel Pdf // One Shot"
+        },
+        {
+          "title": "Panel Pdf // Class - 1"
+        },
+        {
+          "title": "Panel Pdf // Class - 2"
+        },
+        {
+          "title": "Panel Pdf // Class - 3"
+        },
+        {
+          "title": "Panel Pdf // Class - 4"
+        }
+      ],
+      "tests": []
+    },
+    "6a84aec104ee2253fb76f834": {
+      "videos": [],
+      "pdfs": [
+        {
+          "title": "Science Chapter - 2 ( NOTES )"
+        },
+        {
+          "title": "Panel Pdf // Class - 1"
+        },
+        {
+          "title": "Panel Pdf // One Shot"
+        },
+        {
+          "title": "Panel Pdf // Question & Subjective Questions"
+        }
+      ],
+      "tests": []
+    },
+    "6aa3d93ad083a91d76bf56c0": {
+      "videos": [],
+      "pdfs": [
+        {
+          "title": "Panel Pdf // One Shot"
+        }
+      ],
+      "tests": []
+    },
+    "6aa5a5dbe5cdffcf33559060": {
+      "videos": [],
+      "pdfs": [],
+      "tests": []
+    },
+    "6aa5a5e2813736b665e17e4c": {
+      "videos": [],
+      "pdfs": [
+        {
+          "title": "Panel Pdf // Class - 1"
+        },
+        {
+          "title": "Panel Pdf // Class - 2"
+        },
+        {
+          "title": "Panel Pdf // Class - 3"
+        }
+      ],
+      "tests": []
+    },
+    "6ac4a6d8ad8d9b778ffb5e0f": {
+      "videos": [],
+      "pdfs": [],
+      "tests": []
+    },
+    "6ac4a74ce1bbc625cd63f25c": {
+      "videos": [],
+      "pdfs": [
+        {
+          "title": "Panel Pdf // Class - 1"
+        },
+        {
+          "title": "Panel Pdf // Class - 2"
+        },
+        {
+          "title": "Panel Pdf // Class - 3"
+        },
+        {
+          "title": "Panel Pdf // Class - 4"
+        }
+      ],
+      "tests": []
+    },
+    "69df38236b84161601d4fd77": {
+      "videos": [],
+      "pdfs": [
+        {
+          "title": "Notes"
+        },
+        {
+          "title": "Panel Pdf // Class - 1"
+        },
+        {
+          "title": "Panel Pdf // Class - 2"
+        },
+        {
+          "title": "Panel Pdf // Class - 3"
+        },
+        {
+          "title": "Panel Pdf // Class - 4"
+        },
+        {
+          "title": "Panel Pdf // Class - 5"
+        },
+        {
+          "title": "Panel Pdf // Class - 6"
+        },
+        {
+          "title": "Panel Pdf // Objective & Subjective Questions"
+        }
+      ],
+      "tests": []
+    },
+    "6a7181e476236063df0cd344": {
+      "videos": [],
+      "pdfs": [
+        {
+          "title": "Panel Pdf // Class - 1"
+        },
+        {
+          "title": "Panel Pdf // Class - 2"
+        },
+        {
+          "title": "Panel Pdf // Class - 3"
+        },
+        {
+          "title": "Panel Pdf // Class - 4"
+        },
+        {
+          "title": "Panel Pdf // Class - 5"
+        },
+        {
+          "title": "Panel Pdf // Class - 6"
+        },
+        {
+          "title": "Panel Pdf // Class - 7"
+        },
+        {
+          "title": "Panel Pdf // Live Test"
+        }
+      ],
+      "tests": []
+    },
+    "6ac4ac38ad8d9b778f012a36": {
+      "videos": [],
+      "pdfs": [
+        {
+          "title": "Panel Pdf // Class - 1"
+        },
+        {
+          "title": "Panel Pdf // Class - 2"
+        },
+        {
+          "title": "Panel Pdf // Class - 3"
+        }
+      ],
+      "tests": []
+    },
+    "69ff312e4491a1af6170f595": {
+      "videos": [],
+      "pdfs": [
+        {
+          "title": "Panel Pdf // Class - 1"
+        },
+        {
+          "title": "Panel Pdf // Class - 2"
+        },
+        {
+          "title": "Panel Pdf // Class - 3"
+        }
+      ],
+      "tests": []
+    },
+    "6a46a23df7ab00dda88c97a5": {
+      "videos": [],
+      "pdfs": [
+        {
+          "title": "Panel Pdf // One Shot"
+        },
+        {
+          "title": "Panel Pdf // Objective & Subjective Questions"
+        }
+      ],
+      "tests": []
+    },
+    "6a9a7da680f0d32523fb2b3e": {
+      "videos": [],
+      "pdfs": [
+        {
+          "title": "Panel Pdf // Class - 1"
+        },
+        {
+          "title": "Panel Pdf // Class - 2"
+        },
+        {
+          "title": "Panel Pdf // Class - 3"
+        }
+      ],
+      "tests": []
+    },
+    "6a9a7d7680f0d32523fb05a7": {
+      "videos": [],
+      "pdfs": [],
+      "tests": []
+    },
+    "69df49928fa4a4bac572c118": {
+      "videos": [],
+      "pdfs": [],
+      "tests": []
+    },
+    "69e3752f3bf8ae9d98b9e7ce": {
+      "videos": [],
+      "pdfs": [
+        {
+          "title": "Hindi पद्यखंड Chapter - 1 ( NOTES )"
+        }
+      ],
+      "tests": []
+    },
+    "69e37535a32a014e92681a4c": {
+      "videos": [],
+      "pdfs": [
+        {
+          "title": "Hindi पद्यखंड Chapter - 2 ( NOTES )"
+        }
+      ],
+      "tests": []
+    },
+    "69ff33ec27e85f44b868d85b": {
+      "videos": [],
+      "pdfs": [
+        {
+          "title": "Hindi पद्यखंड Chapter - 3 ( NOTES )"
+        }
+      ],
+      "tests": []
+    },
+    "6a02ae82e41f9df8384bc308": {
+      "videos": [],
+      "pdfs": [
+        {
+          "title": "Hindi पद्यखंड Chapter - 4 ( NOTES )"
+        }
+      ],
+      "tests": []
+    },
+    "6a9a9189458d223414e64181": {
+      "videos": [],
+      "pdfs": [
+        {
+          "title": "Hindi पद्यखंड Chapter - 5 ( NOTES )"
+        }
+      ],
+      "tests": []
+    },
+    "6a9a92b1458d223414e96259": {
+      "videos": [],
+      "pdfs": [],
+      "tests": []
+    },
+    "6a9a92bb80f0d325231c6504": {
+      "videos": [],
+      "pdfs": [],
+      "tests": []
+    },
+    "6a9a92c98bbaf71bfaa90fc3": {
+      "videos": [],
+      "pdfs": [],
+      "tests": []
+    },
+    "6a9a92d2458d223414e99876": {
+      "videos": [],
+      "pdfs": [
+        {
+          "title": "समास"
+        }
+      ],
+      "tests": []
+    },
+    "6a9a95189938634675a9c630": {
+      "videos": [],
+      "pdfs": [
+        {
+          "title": "Panel Pdf // One Shot"
+        }
+      ],
+      "tests": []
+    },
+    "6a9a952ac78eacfd042a1ec7": {
+      "videos": [],
+      "pdfs": [
+        {
+          "title": "Panel Pdf // One Shot"
+        }
+      ],
+      "tests": []
+    },
+    "6a9a95499728d6709e738e72": {
+      "videos": [],
+      "pdfs": [
+        {
+          "title": "Panel Pdf // One Shot"
+        }
+      ],
+      "tests": []
+    },
+    "6a9a95578bbaf71bfaabeff2": {
+      "videos": [],
+      "pdfs": [
+        {
+          "title": "Panel Pdf // One Shot"
+        }
+      ],
+      "tests": []
+    },
+    "6a02aafa689bd1b693c762e4": {
+      "videos": [],
+      "pdfs": [
+        {
+          "title": "Panel Pdf // One Shot Class - 1"
+        },
+        {
+          "title": "Panel Pdf // One Shot Class - 2"
+        },
+        {
+          "title": "Panel Pdf // One Shot Class - 3"
+        },
+        {
+          "title": "Panel Pdf // One Shot Class - 4"
+        }
+      ],
+      "tests": []
+    },
+    "6a717d14ced373fc21c4ad41": {
+      "videos": [],
+      "pdfs": [
+        {
+          "title": "Panel Pdf // Class - 1"
+        },
+        {
+          "title": "Panel Pdf // Class - 2"
+        },
+        {
+          "title": "Panel Pdf // Class - 3"
+        },
+        {
+          "title": "Panel Pdf // Class - 4"
+        },
+        {
+          "title": "Panel Pdf // Class - 5"
+        },
+        {
+          "title": "Panel Pdf // Class - 6"
+        }
+      ],
+      "tests": []
+    },
+    "6a84b177e7ed2dad9d64fc90": {
+      "videos": [],
+      "pdfs": [
+        {
+          "title": "Panel Pdf // One Shot"
+        }
+      ],
+      "tests": []
+    },
+    "6a84b188c8b56dc032dc32f9": {
+      "videos": [],
+      "pdfs": [
+        {
+          "title": "Panel Pdf // Class - 1"
+        },
+        {
+          "title": "Panel Pdf // Class - 2"
+        },
+        {
+          "title": "Panel Pdf // Class - 3"
+        },
+        {
+          "title": "Panel Pdf // Class - 4"
+        }
+      ],
+      "tests": []
+    },
+    "6aa53808726e33fc4da469b0": {
+      "videos": [],
+      "pdfs": [],
+      "tests": []
+    },
+    "6aa53819726e33fc4da47012": {
+      "videos": [],
+      "pdfs": [
+        {
+          "title": "Panel Pdf // Class - 4"
+        }
+      ],
+      "tests": []
+    },
+    "6aa538304f2e4db8819c809c": {
+      "videos": [],
+      "pdfs": [
+        {
+          "title": "Panel Pdf // Class - 5"
+        },
+        {
+          "title": "Panel Pdf // Class - 7"
+        }
+      ],
+      "tests": []
+    },
+    "6ac47aaf7e1c32b32ec35696": {
+      "videos": [],
+      "pdfs": [
+        {
+          "title": "Panel Pdf // Class - 1"
+        },
+        {
+          "title": "Panel Pdf // Class - 3"
+        }
+      ],
+      "tests": []
+    },
+    "69e37545a32a014e92681af4": {
+      "videos": [],
+      "pdfs": [],
+      "tests": []
+    },
+    "69ff3cfb27e85f44b880a526": {
+      "videos": [],
+      "pdfs": [
+        {
+          "title": "Panel Pdf // One Shot"
+        }
+      ],
+      "tests": []
+    },
+    "69ff3d1db3a6c7019433480f": {
+      "videos": [],
+      "pdfs": [
+        {
+          "title": "Panel Pdf // Class - 1"
+        },
+        {
+          "title": "Panel Pdf // Class - 2"
+        },
+        {
+          "title": "Panel Pdf // One Shot"
+        }
+      ],
+      "tests": []
+    },
+    "6a718a7c62737e00f79afbd6": {
+      "videos": [],
+      "pdfs": [],
+      "tests": []
+    },
+    "6a718ab4d9feb8d5d5e6acf6": {
+      "videos": [],
+      "pdfs": [],
+      "tests": []
+    },
+    "69ff3c87b3a6c70194324317": {
+      "videos": [],
+      "pdfs": [],
+      "tests": []
+    },
+    "6a9a98a3c78eacfd04323434": {
+      "videos": [],
+      "pdfs": [
+        {
+          "title": "Panel Pdf // Class - 1"
+        },
+        {
+          "title": "Panel Pdf // Class - 3"
+        }
+      ],
+      "tests": []
+    },
+    "6a9a98af9938634675b327ac": {
+      "videos": [],
+      "pdfs": [
+        {
+          "title": "Panel Pdf // One Shot"
+        }
+      ],
+      "tests": []
+    },
+    "6a9a98c89938634675b32eb5": {
+      "videos": [],
+      "pdfs": [
+        {
+          "title": "Panel Pdf // One Shot"
+        }
+      ],
+      "tests": []
+    },
+    "6a9a98d19938634675b33269": {
+      "videos": [],
+      "pdfs": [
+        {
+          "title": "Panel Pdf // One Shot"
+        }
+      ],
+      "tests": []
+    },
+    "6a9a98e9eb40ea5b97355d55": {
+      "videos": [],
+      "pdfs": [],
+      "tests": []
+    },
+    "6a9a9dc08bbaf71bfaba0764": {
+      "videos": [],
+      "pdfs": [
+        {
+          "title": "Panel Pdf // Class - 1"
+        },
+        {
+          "title": "Panel Pdf // Class - 2"
+        }
+      ],
+      "tests": []
+    },
+    "6a718723ced373fc21d3dfb4": {
+      "videos": [],
+      "pdfs": [
+        {
+          "title": "Panel Pdf // Hindi पद्यखंड Chapter - 1 To 3 Complete Revision"
+        },
+        {
+          "title": "Panel Pdf // Sst Live Quiz"
+        }
+      ],
+      "tests": [
+        {
+          "title": "Testing test",
+          "questions": 45,
+          "minutes": 60
+        }
+      ]
+    }
+  },
+  "folder_content": {
+    "folder_name": "उड़ान बैच - 2027 9th Class Up Board",
+    "modules": [
+      {
+        "id": "69d8ad265708bce2fb56ead3",
+        "name": "Class 9th - All Subject ( आगे बढ़िए और पढ़ना शुरू करिए )",
+        "children": [
+          {
+            "id": "69df368501b334310ca657ba",
+            "name": "SCIENCE - विज्ञान",
+            "children": [
+              {
+                "id": "69e37257612a97917941da34",
+                "name": "Basic Class & Formula Class",
+                "children": [],
+                "videos": [],
+                "pdfs": [
+                  {
+                    "title": "Panel Pdf // Basic Class"
+                  },
+                  {
+                    "title": "Panel Pdf // Physics Complete Formula"
+                  }
+                ],
+                "tests": [],
+                "total_items": 2
+              },
+              {
+                "id": "69f1ba04fb26ccc9e5dcf458",
+                "name": "Chapter - 1 ( हमारे आस - पास के पदार्थ )",
+                "children": [],
+                "videos": [],
+                "pdfs": [
+                  {
+                    "title": "Science Chapter - 1 ( NOTES )"
+                  },
+                  {
+                    "title": "Panel Pdf // One Shot"
+                  },
+                  {
+                    "title": "Panel Pdf // Class - 1"
+                  },
+                  {
+                    "title": "Panel Pdf // Class - 2"
+                  },
+                  {
+                    "title": "Panel Pdf // Class - 3"
+                  },
+                  {
+                    "title": "Panel Pdf // Class - 4"
+                  }
+                ],
+                "tests": [],
+                "total_items": 6
+              },
+              {
+                "id": "6a84aec104ee2253fb76f834",
+                "name": "Chapter - 2 ( क्या हमारे आसपास के पदार्थ शुद्ध हैं )",
+                "children": [],
+                "videos": [],
+                "pdfs": [
+                  {
+                    "title": "Science Chapter - 2 ( NOTES )"
+                  },
+                  {
+                    "title": "Panel Pdf // Class - 1"
+                  },
+                  {
+                    "title": "Panel Pdf // One Shot"
+                  },
+                  {
+                    "title": "Panel Pdf // Question & Subjective Questions"
+                  }
+                ],
+                "tests": [],
+                "total_items": 4
+              },
+              {
+                "id": "6aa3d93ad083a91d76bf56c0",
+                "name": "Chapter - 3 ( परमाणु एवं अणु )",
+                "children": [],
+                "videos": [],
+                "pdfs": [
+                  {
+                    "title": "Panel Pdf // One Shot"
+                  }
+                ],
+                "tests": [],
+                "total_items": 1
+              },
+              {
+                "id": "6aa5a5dbe5cdffcf33559060",
+                "name": "Chapter - 4",
+                "children": [],
+                "videos": [],
+                "pdfs": [],
+                "tests": [],
+                "total_items": 0
+              },
+              {
+                "id": "6aa5a5e2813736b665e17e4c",
+                "name": "Chapter - 5 ( कोशिका )",
+                "children": [],
+                "videos": [],
+                "pdfs": [
+                  {
+                    "title": "Panel Pdf // Class - 1"
+                  },
+                  {
+                    "title": "Panel Pdf // Class - 2"
+                  },
+                  {
+                    "title": "Panel Pdf // Class - 3"
+                  }
+                ],
+                "tests": [],
+                "total_items": 3
+              },
+              {
+                "id": "6ac4a6d8ad8d9b778ffb5e0f",
+                "name": "Chapter - 6",
+                "children": [],
+                "videos": [],
+                "pdfs": [],
+                "tests": [],
+                "total_items": 0
+              },
+              {
+                "id": "6ac4a74ce1bbc625cd63f25c",
+                "name": "Chapter - 7 ( गति )",
+                "children": [],
+                "videos": [],
+                "pdfs": [
+                  {
+                    "title": "Panel Pdf // Class - 1"
+                  },
+                  {
+                    "title": "Panel Pdf // Class - 2"
+                  },
+                  {
+                    "title": "Panel Pdf // Class - 3"
+                  },
+                  {
+                    "title": "Panel Pdf // Class - 4"
+                  }
+                ],
+                "tests": [],
+                "total_items": 4
+              }
+            ],
+            "videos": [],
+            "pdfs": [],
+            "tests": [],
+            "total_items": 0
+          },
+          {
+            "id": "69df36a66b84161601d47e97",
+            "name": "SOCIAL SCIENCE - सामाजिक विज्ञान",
+            "children": [
+              {
+                "id": "69df37ecb34e7f28cc89316b",
+                "name": "HISTORY - इतिहास",
+                "children": [
+                  {
+                    "id": "69df38236b84161601d4fd77",
+                    "name": "Chapter - 1 ( फ्रांसीसी क्रांति )",
+                    "children": [],
+                    "videos": [],
+                    "pdfs": [
+                      {
+                        "title": "Notes"
+                      },
+                      {
+                        "title": "Panel Pdf // Class - 1"
+                      },
+                      {
+                        "title": "Panel Pdf // Class - 2"
+                      },
+                      {
+                        "title": "Panel Pdf // Class - 3"
+                      },
+                      {
+                        "title": "Panel Pdf // Class - 4"
+                      },
+                      {
+                        "title": "Panel Pdf // Class - 5"
+                      },
+                      {
+                        "title": "Panel Pdf // Class - 6"
+                      },
+                      {
+                        "title": "Panel Pdf // Objective & Subjective Questions"
+                      }
+                    ],
+                    "tests": [],
+                    "total_items": 8
+                  },
+                  {
+                    "id": "6a7181e476236063df0cd344",
+                    "name": "Chapter - 2 ( यूरोप में समाजवाद एवं रूसी क्रांति )",
+                    "children": [],
+                    "videos": [],
+                    "pdfs": [
+                      {
+                        "title": "Panel Pdf // Class - 1"
+                      },
+                      {
+                        "title": "Panel Pdf // Class - 2"
+                      },
+                      {
+                        "title": "Panel Pdf // Class - 3"
+                      },
+                      {
+                        "title": "Panel Pdf // Class - 4"
+                      },
+                      {
+                        "title": "Panel Pdf // Class - 5"
+                      },
+                      {
+                        "title": "Panel Pdf // Class - 6"
+                      },
+                      {
+                        "title": "Panel Pdf // Class - 7"
+                      },
+                      {
+                        "title": "Panel Pdf // Live Test"
+                      }
+                    ],
+                    "tests": [],
+                    "total_items": 8
+                  },
+                  {
+                    "id": "6ac4ac38ad8d9b778f012a36",
+                    "name": "Chapter - 3 ( नात्सीवाद और हिटलर का उदय )",
+                    "children": [],
+                    "videos": [],
+                    "pdfs": [
+                      {
+                        "title": "Panel Pdf // Class - 1"
+                      },
+                      {
+                        "title": "Panel Pdf // Class - 2"
+                      },
+                      {
+                        "title": "Panel Pdf // Class - 3"
+                      }
+                    ],
+                    "tests": [],
+                    "total_items": 3
+                  }
+                ],
+                "videos": [],
+                "pdfs": [],
+                "tests": [],
+                "total_items": 0
+              },
+              {
+                "id": "69ff31084491a1af61705453",
+                "name": "GEOGRAPHY - भूगोल",
+                "children": [
+                  {
+                    "id": "69ff312e4491a1af6170f595",
+                    "name": "Chapter - 1 ( भारत: आकर और स्थिति )",
+                    "children": [],
+                    "videos": [],
+                    "pdfs": [
+                      {
+                        "title": "Panel Pdf // Class - 1"
+                      },
+                      {
+                        "title": "Panel Pdf // Class - 2"
+                      },
+                      {
+                        "title": "Panel Pdf // Class - 3"
+                      }
+                    ],
+                    "tests": [],
+                    "total_items": 3
+                  },
+                  {
+                    "id": "6a46a23df7ab00dda88c97a5",
+                    "name": "Chapter - 2 ( भारत का भौतिक स्वरूप )",
+                    "children": [],
+                    "videos": [],
+                    "pdfs": [
+                      {
+                        "title": "Panel Pdf // One Shot"
+                      },
+                      {
+                        "title": "Panel Pdf // Objective & Subjective Questions"
+                      }
+                    ],
+                    "tests": [],
+                    "total_items": 2
+                  }
+                ],
+                "videos": [],
+                "pdfs": [],
+                "tests": [],
+                "total_items": 0
+              },
+              {
+                "id": "6a9a7d6e80f0d32523fb03bb",
+                "name": "CIVICS - नागरिक शास्त्र",
+                "children": [
+                  {
+                    "id": "6a9a7da680f0d32523fb2b3e",
+                    "name": "Chapter - 1 ( लोकतंत्र क्या? & लोकतंत्र क्यों? )",
+                    "children": [],
+                    "videos": [],
+                    "pdfs": [
+                      {
+                        "title": "Panel Pdf // Class - 1"
+                      },
+                      {
+                        "title": "Panel Pdf // Class - 2"
+                      },
+                      {
+                        "title": "Panel Pdf // Class - 3"
+                      }
+                    ],
+                    "tests": [],
+                    "total_items": 3
+                  }
+                ],
+                "videos": [],
+                "pdfs": [],
+                "tests": [],
+                "total_items": 0
+              },
+              {
+                "id": "6a9a7d7680f0d32523fb05a7",
+                "name": "ECONOMICS - अर्थशास्त्र",
+                "children": [],
+                "videos": [],
+                "pdfs": [],
+                "tests": [],
+                "total_items": 0
+              }
+            ],
+            "videos": [],
+            "pdfs": [],
+            "tests": [],
+            "total_items": 0
+          },
+          {
+            "id": "69df36b012897cb2475909c5",
+            "name": "HINDI - हिन्दी",
+            "children": [
+              {
+                "id": "69df49928fa4a4bac572c118",
+                "name": "गद्यखंड",
+                "children": [],
+                "videos": [],
+                "pdfs": [],
+                "tests": [],
+                "total_items": 0
+              },
+              {
+                "id": "69df499db34e7f28cc920e3b",
+                "name": "पद्यखंड",
+                "children": [
+                  {
+                    "id": "69e3752f3bf8ae9d98b9e7ce",
+                    "name": "Chapter - 1 ( साखी )",
+                    "children": [],
+                    "videos": [],
+                    "pdfs": [
+                      {
+                        "title": "Hindi पद्यखंड Chapter - 1 ( NOTES )"
+                      }
+                    ],
+                    "tests": [],
+                    "total_items": 1
+                  },
+                  {
+                    "id": "69e37535a32a014e92681a4c",
+                    "name": "Chapter - 2 ( पदावली )",
+                    "children": [],
+                    "videos": [],
+                    "pdfs": [
+                      {
+                        "title": "Hindi पद्यखंड Chapter - 2 ( NOTES )"
+                      }
+                    ],
+                    "tests": [],
+                    "total_items": 1
+                  },
+                  {
+                    "id": "69ff33ec27e85f44b868d85b",
+                    "name": "Chapter - 3 ( दोहा )",
+                    "children": [],
+                    "videos": [],
+                    "pdfs": [
+                      {
+                        "title": "Hindi पद्यखंड Chapter - 3 ( NOTES )"
+                      }
+                    ],
+                    "tests": [],
+                    "total_items": 1
+                  },
+                  {
+                    "id": "6a02ae82e41f9df8384bc308",
+                    "name": "Chapter - 4 ( प्रभु जी तुम चंदन हम पानी )",
+                    "children": [],
+                    "videos": [],
+                    "pdfs": [
+                      {
+                        "title": "Hindi पद्यखंड Chapter - 4 ( NOTES )"
+                      }
+                    ],
+                    "tests": [],
+                    "total_items": 1
+                  },
+                  {
+                    "id": "6a9a9189458d223414e64181",
+                    "name": "Chapter - 5 ( पंचवटी )",
+                    "children": [],
+                    "videos": [],
+                    "pdfs": [
+                      {
+                        "title": "Hindi पद्यखंड Chapter - 5 ( NOTES )"
+                      }
+                    ],
+                    "tests": [],
+                    "total_items": 1
+                  }
+                ],
+                "videos": [],
+                "pdfs": [],
+                "tests": [],
+                "total_items": 0
+              },
+              {
+                "id": "69df49a612897cb2476585af",
+                "name": "हिन्दी व्याकरण",
+                "children": [
+                  {
+                    "id": "6a9a92b1458d223414e96259",
+                    "name": "रस",
+                    "children": [],
+                    "videos": [],
+                    "pdfs": [],
+                    "tests": [],
+                    "total_items": 0
+                  },
+                  {
+                    "id": "6a9a92bb80f0d325231c6504",
+                    "name": "अलंकार",
+                    "children": [],
+                    "videos": [],
+                    "pdfs": [],
+                    "tests": [],
+                    "total_items": 0
+                  },
+                  {
+                    "id": "6a9a92c98bbaf71bfaa90fc3",
+                    "name": "छंद",
+                    "children": [],
+                    "videos": [],
+                    "pdfs": [],
+                    "tests": [],
+                    "total_items": 0
+                  },
+                  {
+                    "id": "6a9a92d2458d223414e99876",
+                    "name": "समास",
+                    "children": [],
+                    "videos": [],
+                    "pdfs": [
+                      {
+                        "title": "समास"
+                      }
+                    ],
+                    "tests": [],
+                    "total_items": 1
+                  }
+                ],
+                "videos": [],
+                "pdfs": [],
+                "tests": [],
+                "total_items": 0
+              }
+            ],
+            "videos": [],
+            "pdfs": [],
+            "tests": [],
+            "total_items": 0
+          },
+          {
+            "id": "69df36b7de81766c7a62ed4a",
+            "name": "SANSKRIT - संस्कृत",
+            "children": [
+              {
+                "id": "6a9a94fc8bbaf71bfaabd0c9",
+                "name": "अनिवार्य संस्कृत",
+                "children": [
+                  {
+                    "id": "6a9a95189938634675a9c630",
+                    "name": "Chapter - 1 ( वंदना )",
+                    "children": [],
+                    "videos": [],
+                    "pdfs": [
+                      {
+                        "title": "Panel Pdf // One Shot"
+                      }
+                    ],
+                    "tests": [],
+                    "total_items": 1
+                  },
+                  {
+                    "id": "6a9a952ac78eacfd042a1ec7",
+                    "name": "Chapter - 2 ( सदाचार: )",
+                    "children": [],
+                    "videos": [],
+                    "pdfs": [
+                      {
+                        "title": "Panel Pdf // One Shot"
+                      }
+                    ],
+                    "tests": [],
+                    "total_items": 1
+                  },
+                  {
+                    "id": "6a9a95499728d6709e738e72",
+                    "name": "Chapter - 3 ( पुरुषोत्तम: राम: )",
+                    "children": [],
+                    "videos": [],
+                    "pdfs": [
+                      {
+                        "title": "Panel Pdf // One Shot"
+                      }
+                    ],
+                    "tests": [],
+                    "total_items": 1
+                  },
+                  {
+                    "id": "6a9a95578bbaf71bfaabeff2",
+                    "name": "Chapter - 4 ( सिद्धिमंत्र: )",
+                    "children": [],
+                    "videos": [],
+                    "pdfs": [
+                      {
+                        "title": "Panel Pdf // One Shot"
+                      }
+                    ],
+                    "tests": [],
+                    "total_items": 1
+                  }
+                ],
+                "videos": [],
+                "pdfs": [],
+                "tests": [],
+                "total_items": 0
+              }
+            ],
+            "videos": [],
+            "pdfs": [],
+            "tests": [],
+            "total_items": 0
+          },
+          {
+            "id": "69df36c7de81766c7a62f2d8",
+            "name": "MATHS - गणित",
+            "children": [
+              {
+                "id": "6a02aafa689bd1b693c762e4",
+                "name": "Chapter - 1 ( संख्या पद्धति )",
+                "children": [],
+                "videos": [],
+                "pdfs": [
+                  {
+                    "title": "Panel Pdf // One Shot Class - 1"
+                  },
+                  {
+                    "title": "Panel Pdf // One Shot Class - 2"
+                  },
+                  {
+                    "title": "Panel Pdf // One Shot Class - 3"
+                  },
+                  {
+                    "title": "Panel Pdf // One Shot Class - 4"
+                  }
+                ],
+                "tests": [],
+                "total_items": 4
+              },
+              {
+                "id": "6a717d14ced373fc21c4ad41",
+                "name": "Chapter - 2 ( बहुपद )",
+                "children": [],
+                "videos": [],
+                "pdfs": [
+                  {
+                    "title": "Panel Pdf // Class - 1"
+                  },
+                  {
+                    "title": "Panel Pdf // Class - 2"
+                  },
+                  {
+                    "title": "Panel Pdf // Class - 3"
+                  },
+                  {
+                    "title": "Panel Pdf // Class - 4"
+                  },
+                  {
+                    "title": "Panel Pdf // Class - 5"
+                  },
+                  {
+                    "title": "Panel Pdf // Class - 6"
+                  }
+                ],
+                "tests": [],
+                "total_items": 6
+              },
+              {
+                "id": "6a84b177e7ed2dad9d64fc90",
+                "name": "Chapter - 3 ( निर्देशांक ज्यामिति )",
+                "children": [],
+                "videos": [],
+                "pdfs": [
+                  {
+                    "title": "Panel Pdf // One Shot"
+                  }
+                ],
+                "tests": [],
+                "total_items": 1
+              },
+              {
+                "id": "6a84b188c8b56dc032dc32f9",
+                "name": "Chapter - 4 ( दो चर वाले रैखिक समीकरण युग्म )",
+                "children": [],
+                "videos": [],
+                "pdfs": [
+                  {
+                    "title": "Panel Pdf // Class - 1"
+                  },
+                  {
+                    "title": "Panel Pdf // Class - 2"
+                  },
+                  {
+                    "title": "Panel Pdf // Class - 3"
+                  },
+                  {
+                    "title": "Panel Pdf // Class - 4"
+                  }
+                ],
+                "tests": [],
+                "total_items": 4
+              },
+              {
+                "id": "6aa53808726e33fc4da469b0",
+                "name": "Chapter - 5 ( यूक्लिड की ज्यामिति का परिचय )",
+                "children": [],
+                "videos": [],
+                "pdfs": [],
+                "tests": [],
+                "total_items": 0
+              },
+              {
+                "id": "6aa53819726e33fc4da47012",
+                "name": "Chapter - 6 ( रेखा और कोण )",
+                "children": [],
+                "videos": [],
+                "pdfs": [
+                  {
+                    "title": "Panel Pdf // Class - 4"
+                  }
+                ],
+                "tests": [],
+                "total_items": 1
+              },
+              {
+                "id": "6aa538304f2e4db8819c809c",
+                "name": "Chapter - 7 ( त्रिभुज )",
+                "children": [],
+                "videos": [],
+                "pdfs": [
+                  {
+                    "title": "Panel Pdf // Class - 5"
+                  },
+                  {
+                    "title": "Panel Pdf // Class - 7"
+                  }
+                ],
+                "tests": [],
+                "total_items": 2
+              },
+              {
+                "id": "6ac47aaf7e1c32b32ec35696",
+                "name": "Chapter - 8 ( चतुर्भुज )",
+                "children": [],
+                "videos": [],
+                "pdfs": [
+                  {
+                    "title": "Panel Pdf // Class - 1"
+                  },
+                  {
+                    "title": "Panel Pdf // Class - 3"
+                  }
+                ],
+                "tests": [],
+                "total_items": 2
+              }
+            ],
+            "videos": [],
+            "pdfs": [],
+            "tests": [],
+            "total_items": 0
+          },
+          {
+            "id": "69df36d3b34e7f28cc8839c5",
+            "name": "ENGLISH - अंग्रेजी",
+            "children": [
+              {
+                "id": "69e37545a32a014e92681af4",
+                "name": "Basic Class",
+                "children": [],
+                "videos": [],
+                "pdfs": [],
+                "tests": [],
+                "total_items": 0
+              },
+              {
+                "id": "69ff3c81e41f9df83833abd1",
+                "name": "Prose Section",
+                "children": [
+                  {
+                    "id": "69ff3cfb27e85f44b880a526",
+                    "name": "Chapter - 1 ( The Fun They Had )",
+                    "children": [],
+                    "videos": [],
+                    "pdfs": [
+                      {
+                        "title": "Panel Pdf // One Shot"
+                      }
+                    ],
+                    "tests": [],
+                    "total_items": 1
+                  },
+                  {
+                    "id": "69ff3d1db3a6c7019433480f",
+                    "name": "Chapter - 2 ( The Sound Of Music )",
+                    "children": [],
+                    "videos": [],
+                    "pdfs": [
+                      {
+                        "title": "Panel Pdf // Class - 1"
+                      },
+                      {
+                        "title": "Panel Pdf // Class - 2"
+                      },
+                      {
+                        "title": "Panel Pdf // One Shot"
+                      }
+                    ],
+                    "tests": [],
+                    "total_items": 3
+                  },
+                  {
+                    "id": "6a718a7c62737e00f79afbd6",
+                    "name": "Chapter - 3 ( The Little Girl )",
+                    "children": [],
+                    "videos": [],
+                    "pdfs": [],
+                    "tests": [],
+                    "total_items": 0
+                  },
+                  {
+                    "id": "6a718ab4d9feb8d5d5e6acf6",
+                    "name": "Chapter - 4 ( A Truly Beautiful Mind )",
+                    "children": [],
+                    "videos": [],
+                    "pdfs": [],
+                    "tests": [],
+                    "total_items": 0
+                  }
+                ],
+                "videos": [],
+                "pdfs": [],
+                "tests": [],
+                "total_items": 0
+              },
+              {
+                "id": "69ff3c87b3a6c70194324317",
+                "name": "Poetry Section",
+                "children": [],
+                "videos": [],
+                "pdfs": [],
+                "tests": [],
+                "total_items": 0
+              },
+              {
+                "id": "6a9a986e36cfe31425f7d8db",
+                "name": "English Grammar",
+                "children": [
+                  {
+                    "id": "6a9a98a3c78eacfd04323434",
+                    "name": "Basic Class",
+                    "children": [],
+                    "videos": [],
+                    "pdfs": [
+                      {
+                        "title": "Panel Pdf // Class - 1"
+                      },
+                      {
+                        "title": "Panel Pdf // Class - 3"
+                      }
+                    ],
+                    "tests": [],
+                    "total_items": 2
+                  },
+                  {
+                    "id": "6a9a98af9938634675b327ac",
+                    "name": "Phrase",
+                    "children": [],
+                    "videos": [],
+                    "pdfs": [
+                      {
+                        "title": "Panel Pdf // One Shot"
+                      }
+                    ],
+                    "tests": [],
+                    "total_items": 1
+                  },
+                  {
+                    "id": "6a9a98c89938634675b32eb5",
+                    "name": "Clause",
+                    "children": [],
+                    "videos": [],
+                    "pdfs": [
+                      {
+                        "title": "Panel Pdf // One Shot"
+                      }
+                    ],
+                    "tests": [],
+                    "total_items": 1
+                  },
+                  {
+                    "id": "6a9a98d19938634675b33269",
+                    "name": "Sentence",
+                    "children": [],
+                    "videos": [],
+                    "pdfs": [
+                      {
+                        "title": "Panel Pdf // One Shot"
+                      }
+                    ],
+                    "tests": [],
+                    "total_items": 1
+                  },
+                  {
+                    "id": "6a9a98e9eb40ea5b97355d55",
+                    "name": "Parts Of Speech",
+                    "children": [],
+                    "videos": [],
+                    "pdfs": [],
+                    "tests": [],
+                    "total_items": 0
+                  },
+                  {
+                    "id": "6a9a9dc08bbaf71bfaba0764",
+                    "name": "Noun",
+                    "children": [],
+                    "videos": [],
+                    "pdfs": [
+                      {
+                        "title": "Panel Pdf // Class - 1"
+                      },
+                      {
+                        "title": "Panel Pdf // Class - 2"
+                      }
+                    ],
+                    "tests": [],
+                    "total_items": 2
+                  }
+                ],
+                "videos": [],
+                "pdfs": [],
+                "tests": [],
+                "total_items": 0
+              }
+            ],
+            "videos": [],
+            "pdfs": [],
+            "tests": [],
+            "total_items": 0
+          }
+        ],
+        "videos": [],
+        "pdfs": [],
+        "tests": [],
+        "total_items": 0
+      },
+      {
+        "id": "6a718723ced373fc21d3dfb4",
+        "name": "Youtube Common Class",
+        "children": [],
+        "videos": [],
+        "pdfs": [
+          {
+            "title": "Panel Pdf // Hindi पद्यखंड Chapter - 1 To 3 Complete Revision"
+          },
+          {
+            "title": "Panel Pdf // Sst Live Quiz"
+          }
+        ],
+        "tests": [
+          {
+            "title": "Testing test",
+            "questions": 45,
+            "minutes": 60
+          }
+        ],
+        "total_items": 3
+      }
+    ],
+    "total_files": 91
+  }
+}
