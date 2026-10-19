@@ -1,0 +1,9 @@
+{
+  "rewrites": [
+    { "source": "/api/category/(.*)", "destination": "https://seashell-app-3z5jp.ondigitalocean.app/api/v1/category/$1" },
+    { "source": "/api/tests/(.*)", "destination": "https://seashell-app-3z5jp.ondigitalocean.app/api/v1/tests/$1" },
+    { "source": "/api/tests", "destination": "https://seashell-app-3z5jp.ondigitalocean.app/api/v1/tests" },
+    { "source": "/api/(.*)", "destination": "/server.ts" },
+    { "source": "/(.*)", "destination": "/index.html" }
+  ]
+}
